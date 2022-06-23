@@ -1,0 +1,22 @@
+{
+  "name": "witness-update-html",
+  "version": "1.0.0",
+  "description": "- HTML for ease of use in any modern browser.\r - Portability, can be saved on a USB stick.\r - AES-256 encryption of the active key for safe storage in the configuration file.\r - Selectable public signing keys.\r - Selectable RPC nodes.\r - Witness disabling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolly-Pirate/witness-update-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jolly-Pirate/witness-update-html/issues"
+  },
+  "homepage": "https://github.com/Jolly-Pirate/witness-update-html#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

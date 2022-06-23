@@ -1,0 +1,19 @@
+{
+  "owner": "witnessname",
+  "url": "https://hive.blog/witness-category/@witnessname/witness-application-link",
+  "account_creation_fee": "0.100 HIVE",
+  "maximum_block_size": 65536,
+  "hbd_interest_rate": 0,
+  "wif": "5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "signing_pubkeys": [
+    [
+      "STMxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "Public Active Key"
+    ]
+  ],
+  "rpc_nodes": [
+    "https://api.hive.blog",
+    "https://anyx.io",
+    "https://rpc.ausbit.dev"
+  ]
+}
